@@ -8,3 +8,7 @@ print(matrix[2][2])
 for collumn in matrix:
     for item in collumn:
         print(item)
+
+nam = input("Enter your name: ")
+print("Hello " + nam + "!")
+print(nam)
